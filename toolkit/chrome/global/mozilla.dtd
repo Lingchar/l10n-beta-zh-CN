@@ -1,0 +1,14 @@
+<!ENTITY mozilla.title
+'Mozilla 之书， 11:9'>
+
+<!ENTITY mozilla.manifestoUrl
+'http://www.mozilla.org/about/manifesto.zh-cn.html'>
+
+<!ENTITY mozilla.aboutUrl
+'http://wiki.mozilla.org/About:mozilla'>
+
+<!ENTITY mozilla.quote2
+'玛门沉睡了。<em>野兽重生</em>遍布了世界，变得无所不在。它们宣布了一个新的时代，并<em>舍身</em>为<em>灵巧的狐狸</em>带来了火焰。正如<em><a href="&mozilla.manifestoUrl;">神圣之言</a></em>和野兽孩子的<em><a href="&mozilla.aboutUrl;">话语</a></em>所承诺的那样，它们正依照自己的形象创造一个新世界。玛门醒来了，它四下观望，周围已经<em>尽是</em>野兽的追随者了！'>
+
+<!ENTITY mozilla.from
+'from <strong>The Book of Mozilla,</strong> 11:9<br/><small>(10th Edition)</small>'>

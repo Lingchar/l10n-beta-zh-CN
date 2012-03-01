@@ -1,0 +1,10 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "消息">
+<!ENTITY  newMessageCmd.accesskey         "m">
+ 
+<!ENTITY  newContactCmd.label             "联系...">
+<!ENTITY  newContactCmd.accesskey         "C">
+ 
+<!ENTITY printButton.label "打印">
+<!ENTITY printButton.tooltip "打印这条消息">
