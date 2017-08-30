@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "在退出时清除隐私数据">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 将在您每次从主菜单中选择“退出”时自动清除您的数据">
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
-<!ENTITY pref_plugins "插件">
-<!ENTITY pref_plugins_enabled "启用">
-<!ENTITY pref_plugins_tap_to_play2 "轻触此处即可播放">
-<!ENTITY pref_plugins_disabled "禁用">
 <!ENTITY pref_restore_tabs "恢复标签页">
 <!ENTITY pref_restore_always "总是恢复">
 <!ENTITY pref_restore_quit "曾明确退出 &brandShortName; 则不要恢复">
@@ -851,3 +847,4 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "欢迎！这里是您的集锦">
 <!ENTITY activity_stream_welcome_content1 "现在，&brandShortName; 会把您在网上的新发现整理成集锦，方便您快速回到这些有用的文章、视频、加了书签的网页等。">
+<!ENTITY fullscreen_warning "已进入全屏">
